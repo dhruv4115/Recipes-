@@ -20,11 +20,11 @@ Recipe Explorer is a modern, fully responsive web application that allows users 
 
 Here are a few snapshots of the app in action:
 
-![Recipe Card View](./assests/Screenshot 2025-06-08 at 7.40.45 PM.png)
-![Recipe Detail View 1](./assests/Screenshot 2025-06-08 at 7.40.00 PM.png)
-![Recipe Detail View 2](./assests/Screenshot 2025-06-08 at 7.40.21 PM.png)
-![Mobile Friendly Design](./assests/Screenshot 2025-06-08 at 7.45.22 PM.png)
-![User Interface Consistency](assests/Screenshot 2025-06-08 at 7.41.04 PM.png)
+![Recipe Card View](https://github.com/dhruv4115/Recipes-/blob/Dhruv_feature/assests/CardView.png?raw=true)
+![Recipe Detail View 1](https://github.com/dhruv4115/Recipes-/blob/Dhruv_feature/assests/CardDetails1.png?raw=true)
+![Recipe Detail View 2](https://github.com/dhruv4115/Recipes-/blob/Dhruv_feature/assests/CardDetails2.png?raw=true)
+![Mobile Friendly Design](https://github.com/dhruv4115/Recipes-/blob/Dhruv_feature/assests/MobileView.png?raw=true)
+![User Interface Consistency](https://github.com/dhruv4115/Recipes-/blob/Dhruv_feature/assests/UI%20Interface.png?raw=true)
 
 ---
 
