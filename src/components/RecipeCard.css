@@ -1,0 +1,190 @@
+.recipe-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .recipe-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .recipe-image {
+    height: 160px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+  
+  .recipe-title {
+    font-size: 1.125rem;
+    font-weight: bold;
+    margin-top: 0.75rem;
+    color: #1a202c;
+  }
+  
+  .recipe-time {
+    margin: 0.5rem 0;
+  }
+  
+  .recipe-link {
+    color: #3b82f6;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 0.5rem;
+  }
+  
+  .recipe-link:hover {
+    text-decoration: underline;
+  }
+  .recipe-link:visited {
+    color: #2563eb;
+  }
+  .recipe-link:active {
+    color: #1d4ed8;
+  }
+  .recipe-link:focus {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+  .recipe-link:focus-visible {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+  .recipe-link:focus:not(:focus-visible) {
+    outline: none;
+  }
+  .recipe-link:disabled {
+    color: #9ca3af;
+    cursor: not-allowed;
+  }
+  .recipe-link:disabled:hover {
+    text-decoration: none;
+  }
+  .recipe-link:disabled:focus {
+    outline: none;
+  }
+  .recipe-link:disabled:focus-visible {
+    outline: none;
+  }
+  .recipe-link:disabled:focus:not(:focus-visible) {
+    outline: none;
+  }
+  .recipe-link:active {
+    color: #1d4ed8;
+    transform: scale(0.98);
+  }
+  .recipe-link:visited {
+    color: #2563eb;
+  }
+  .recipe-link:focus {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+  .recipe-link:focus-visible {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+  .recipe-link:focus:not(:focus-visible) {
+    outline: none;
+  }
+  .recipe-link:disabled {
+    color: #9ca3af;
+    cursor: not-allowed;
+  }
+  .recipe-link:disabled:hover {
+    text-decoration: none;
+  }
+  .recipe-link:disabled:focus {
+    outline: none;
+  }
+  .recipe-link:disabled:focus-visible {
+    outline: none;
+  }
+  .recipe-link:disabled:focus:not(:focus-visible) {
+    outline: none;
+  }
+  .recipe-link:active {
+    color: #1d4ed8;
+    transform: scale(0.98);
+  }
+  .recipe-link:visited {
+    color: #2563eb;
+  }
+  .recipe-link:focus {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+  .recipe-link:focus-visible {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+  .recipe-link:focus:not(:focus-visible) {
+    outline: none;
+  }
+  .recipe-link:disabled {
+    color: #9ca3af;
+    cursor: not-allowed;
+  }
+  .recipe-link:disabled:hover {
+    text-decoration: none;
+  }
+  .recipe-link:disabled:focus {
+    outline: none;
+  }
+  .recipe-link:disabled:focus-visible {
+    outline: none;
+  }
+  .recipe-link:disabled:focus:not(:focus-visible) {
+    outline: none;
+  }
+  .recipe-link:active {
+    color: #1d4ed8;
+    transform: scale(0.98);
+  }
+  .recipe-link:visited {
+    color: #2563eb;
+  }
+  .recipe-link:focus {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+  .recipe-link:focus-visible {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+  .recipe-link:focus:not(:focus-visible) {
+    outline: none;
+  }
+  .recipe-link:disabled {
+    color: #9ca3af;
+    cursor: not-allowed;
+  }
+  .recipe-link:disabled:hover {
+    text-decoration: none;
+  }
+  .recipe-link:disabled:focus {
+    outline: none;
+  }
+  .recipe-link:disabled:focus-visible {
+    outline: none;
+  }
+  .recipe-link:disabled:focus:not(:focus-visible) {
+    outline: none;
+  }
+  .recipe-link:active {
+    color: #1d4ed8;
+    transform: scale(0.98);
+  }
+  .recipe-link:visited {
+    color: #2563eb;
+  }
+  .recipe-link:focus {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
+  .recipe-link:focus-visible {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+  }
